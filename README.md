@@ -1,6 +1,6 @@
 # YouTube Clone
 
-![image](c:\Users\mosar\OneDrive\Pictures\Screenshot 2025-07-26 091807.png)
+![image](./Screenshot%202025-07-26%20091807.png)
 
 
 
@@ -15,7 +15,7 @@ YouTube Clone is a web application that replicates the core features of YouTube,
 - User Accounts: Optional user accounts allow users to create playlists, like videos, and view their watch history.
 
 ## Demo
-![image](c:\Users\mosar\OneDrive\Pictures\Screenshots\Screenshot 2025-07-26 122619.png)
+![image](./Screenshot%202025-07-26%20122619.png)
 
 
 
